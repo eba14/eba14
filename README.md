@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **eba14/eba14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# - Hi, I’m Elias Assalif 👋
+# - Electrical & Computer Engineering (ECE) major at the University of Washington, specializing in Computing and Embedded Systems ⚡
+# - Interested in circuits, digital system design (FPGA), robotics, and hardware-software integration 🤖
+# - I enjoy exercising and playing racquet sports (tennis, pickleball, badminton) 🏃‍♂️🎾
+# - You can reach out to me via email at [elias.assalif14@gmail.com](mailto:elias.assalif14@gmail.com) or through LinkedIn [Elias Assalif](http://www.linkedin.com/in/elias-assalif) 📫
