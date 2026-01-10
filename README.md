@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 - Hi, I’m Elias Assalif 👋
 - Electrical & Computer Engineering major at the University of Washington, specializing in Computing and Embedded Systems ⚡🖥️
-- Interested in circuits, digital system design (FPGA), and robotics 🔌🤖
-- I enjoy puzzles, exercising, ultimate frisbee, and playing racquet sports (tennis, pickleball, badminton) 🧩🏃‍♂️🎾
+- Interested in circuits, digital system design (FPGA), and robotics 💡🔌🤖
+- I enjoy puzzles, exercising, ultimate frisbee, and playing racquet sports (tennis, pickleball, badminton) 🧩🏃‍♂️🥏🎾
 - You can reach out to me via email at [elias.assalif14@gmail.com](mailto:elias.assalif14@gmail.com) or through LinkedIn [Elias Assalif](http://www.linkedin.com/in/elias-assalif) 📫
